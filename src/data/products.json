@@ -1,0 +1,113 @@
+[
+    {
+      "product_id": 1,
+      "product_title": "Smartphone X",
+      "product_image": "/images/smartphone.png",
+      "category": "phones",
+      "price": 299,
+      "description": "A high-end smartphone with great features.",
+      "specification": ["6GB RAM", "128GB Storage"],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": 2,
+      "product_title": "Laptop Pro",
+      "product_image": "/images/laptop.png",
+      "category": "computers",
+      "price": 899,
+      "description": "A powerful laptop for professionals.",
+      "specification": ["16GB RAM", "512GB SSD"],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": 3,
+      "product_title": "Smart Watch Z",
+      "product_image": "/images/smartwatch.png",
+      "category": "smart watches",
+      "price": 199,
+      "description": "A smartwatch with fitness tracking and notifications.",
+      "specification": ["Heart Rate Monitor", "GPS"],
+      "availability": true,
+      "rating": 4.2
+    },
+    {
+      "product_id": 4,
+      "product_title": "Gaming Headset",
+      "product_image": "/images/headset.png",
+      "category": "accessories",
+      "price": 79,
+      "description": "High-quality sound for an immersive gaming experience.",
+      "specification": ["Noise-Cancelling", "7.1 Surround Sound"],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": 5,
+      "product_title": "Wireless Charger",
+      "product_image": "/images/charger.png",
+      "category": "chargers",
+      "price": 59,
+      "description": "A fast and efficient wireless charger.",
+      "specification": ["10W Fast Charging", "Qi Compatible"],
+      "availability": true,
+      "rating": 4.3
+    },
+    {
+      "product_id": 6,
+      "product_title": "Portable Power Bank",
+      "product_image": "/images/powerbank.png",
+      "category": "power banks",
+      "price": 39,
+      "description": "Compact power bank with high capacity.",
+      "specification": ["10,000mAh", "USB-C and USB-A ports"],
+      "availability": true,
+      "rating": 4.1
+    },
+    {
+      "product_id": 7,
+      "product_title": "Tablet T10",
+      "product_image": "/images/tablet.png",
+      "category": "computers",
+      "price": 249,
+      "description": "A versatile tablet for work and play.",
+      "specification": ["10-inch Display", "64GB Storage"],
+      "availability": false,
+      "rating": 4.0
+    },
+    {
+      "product_id": 8,
+      "product_title": "Bluetooth Speaker",
+      "product_image": "/images/speaker.png",
+      "category": "accessories",
+      "price": 89,
+      "description": "Portable speaker with rich sound quality.",
+      "specification": ["Waterproof", "12-Hour Battery Life"],
+      "availability": true,
+      "rating": 4.4
+    },
+    {
+      "product_id": 9,
+      "product_title": "Smartphone Y",
+      "product_image": "/images/smartphone2.png",
+      "category": "phones",
+      "price": 499,
+      "description": "Mid-range smartphone with excellent camera.",
+      "specification": ["8GB RAM", "256GB Storage"],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": 10,
+      "product_title": "Smart Home Hub",
+      "product_image": "/images/smarthomehub.png",
+      "category": "smart home",
+      "price": 129,
+      "description": "Control all your smart home devices from one hub.",
+      "specification": ["Voice Control", "WiFi Enabled"],
+      "availability": true,
+      "rating": 4.6
+    }
+  ]
+  
