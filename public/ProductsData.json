@@ -1,0 +1,112 @@
+[
+  {
+    "product_id": 1,
+    "product_title": "Smartphone X",
+    "product_image": "https://i.ibb.co.com/pxFDjfb/phone.jpg",
+    "category": "phones",
+    "price": 299,
+    "description": "A high-end smartphone with great features.",
+    "specification": ["6GB RAM", "128GB Storage"],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": 2,
+    "product_title": "Smartphone Y",
+    "product_image": "https://i.ibb.co.com/nC90KXx/phone1.jpg",
+    "category": "phones",
+    "price": 499,
+    "description": "Mid-range smartphone with excellent camera.",
+    "specification": ["8GB RAM", "256GB Storage"],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": 3,
+    "product_title": "Smartphone Z",
+    "product_image": "https://i.ibb.co.com/Hpk3QQN/11111111.jpg",
+    "category": "phones",
+    "price": 649,
+    "description": "Flagship smartphone with top performance.",
+    "specification": ["12GB RAM", "512GB Storage"],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": 4,
+    "product_title": "Laptop Pro",
+    "product_image": "https://i.ibb.co.com/rG7G63B/laptop.jpg",
+    "category": "computers",
+    "price": 899,
+    "description": "A powerful laptop for professionals.",
+    "specification": ["16GB RAM", "512GB SSD"],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": 5,
+    "product_title": "Tablet T10",
+    "product_image": "https://i.ibb.co.com/FhCtSM2/tab.jpg",
+    "category": "computers",
+    "price": 249,
+    "description": "A versatile tablet for work and play.",
+    "specification": ["10-inch Display", "64GB Storage"],
+    "availability": false,
+    "rating": 4.0
+  },
+  {
+    "product_id": 6,
+    "product_title": "Smart Watch Z",
+    "product_image": "https://i.ibb.co.com/ynwhzJd/watch.jpg",
+    "category": "smart watches",
+    "price": 199,
+    "description": "A smartwatch with fitness tracking and notifications.",
+    "specification": ["Heart Rate Monitor", "GPS"],
+    "availability": true,
+    "rating": 4.2
+  },
+  {
+    "product_id": 7,
+    "product_title": "Gaming Headset",
+    "product_image": "https://i.ibb.co.com/N9J6V85/head.jpg",
+    "category": "accessories",
+    "price": 79,
+    "description": "High-quality sound for an immersive gaming experience.",
+    "specification": ["Noise-Cancelling", "7.1 Surround Sound"],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": 8,
+    "product_title": "Bluetooth Speaker",
+    "product_image": "https://i.ibb.co.com/4gfdb8G/speaker.jpg",
+    "category": "accessories",
+    "price": 89,
+    "description": "Portable speaker with rich sound quality.",
+    "specification": ["Waterproof", "12-Hour Battery Life"],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "product_id": 9,
+    "product_title": "Portable Power Bank",
+    "product_image": "https://i.ibb.co.com/B4Xw1tF/powerbank.jpg",
+    "category": "power banks",
+    "price": 59,
+    "description": "Compact power bank with high capacity.",
+    "specification": ["10,000mAh", "USB-C and USB-A ports"],
+    "availability": true,
+    "rating": 4.1
+  },
+  {
+    "product_id": 10,
+    "product_title": "Wireless Charger",
+    "product_image": "https://i.ibb.co.com/b7BMmt9/charger.jpg",
+    "category": "chargers",
+    "price": 59,
+    "description": "A fast and efficient wireless charger.",
+    "specification": ["10W Fast Charging", "Qi Compatible"],
+    "availability": false,
+    "rating": 4.3
+  }
+]
