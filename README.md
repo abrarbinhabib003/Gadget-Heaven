@@ -1,4 +1,4 @@
-GadgetHaven will be an e-commerce platform focused on selling gadgets. Key functionalities include product categories, individual product pages, shopping cart, wishlist, and product filtering. We’ll also implement structured navigation and responsive design to ensure a seamless experience on all devices.
+GadgetHaven is an e-commerce platform focused on selling gadgets. Key functionalities include product categories, individual product pages, shopping cart, wishlist, and product filtering. We’ll also implement structured navigation and responsive design to ensure a seamless experience on all devices.
 
 ### **Core Functionalities**
 
