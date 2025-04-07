@@ -21,7 +21,7 @@ const Navbar = ({ isHomePage }) => {
 
         <div className="flex space-x-4">
 
-          <Link to="/cart" className="relative">
+          <Link to="/dashboard" className="relative">
             <AiOutlineShoppingCart className="mr-1 rounded-xl" />
             <span className="absolute -top-2 -right-2 bg-red-500 text-xs rounded-full px-1 py-0.5 text-white">
               {cart.length}
@@ -29,7 +29,7 @@ const Navbar = ({ isHomePage }) => {
           </Link>
 
 
-          <Link to="/wishlist" className="relative">
+          <Link to="/dashboard" className="relative">
             <AiOutlineHeart className="mr-1 rounded-xl" />
             <span className="absolute -top-2 -right-2 bg-red-500 text-xs rounded-full px-1 py-0.5 text-white">
               {wishlist.length}
